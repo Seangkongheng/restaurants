@@ -1,0 +1,50 @@
+@media (max-width:1024px){
+    /*about section*/
+}
+@media (max-width:991px){
+    /*customer classes*/
+    .tex-content{
+        width: 100%;
+    }
+    /*navbar-band*/
+    .navigation-wrap .navbar-bran img{
+        height:3.8125rem ;
+    }
+    .navigation-wrap {
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+    }
+    /*bannder design*/
+    .top-banner{
+        padding:9.375rem 0 9.375rem ;
+    }
+    /*carouset desing*/
+}
+@media (max-width:767px){
+
+    /*customer classes*/
+    h1{
+        font-size: 2.8rem;
+
+    }
+    h2{
+        font-size: 2rem;
+        line-height:2.0625rem ;
+    }
+
+    /*top-bander*/
+    .top-banner{
+        padding: 10.875rem 0 9.375 ;
+
+    }
+    .story-section{
+        height: auto;
+        padding: 3rem 0;
+    }
+    /*top-bander*/
+    /*top-bander*/
+    /*storyy section*/
+}
